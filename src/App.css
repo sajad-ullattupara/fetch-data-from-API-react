@@ -1,0 +1,14 @@
+h3{
+  color:crimson;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p{
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+li{
+  list-style-type: none;
+}
